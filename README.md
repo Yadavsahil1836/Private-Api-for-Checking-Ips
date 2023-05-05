@@ -1,6 +1,8 @@
 # Private-Api-for-Checking-Ips
 These Api Will help You to Find The Risk of The ip using These Api
 
+Prvt Api == https://ipchecker.herokuapp.com/ip/<"Your IpAddress Just like Givien In The Image">
+
 
 ![image](https://user-images.githubusercontent.com/129051361/236478587-00266c19-6b86-409e-a380-0c3c208b0ee9.png)
 
